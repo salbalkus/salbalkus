@@ -8,3 +8,4 @@
 🏭 Environmental Health
 
 ![salbalkus's Stats](https://github-readme-stats.vercel.app/api?username=salbalkus&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=salbalkus)
